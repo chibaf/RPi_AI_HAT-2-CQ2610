@@ -1,5 +1,5 @@
 # RPi_AI_HAT-2
-
+  
 本リポジトリは、Interface 2026年10月号 特設記事で使用するサンプルコードと測定結果をまとめたものです。
 
 [https://interface.cqpub.co.jp/magazine/202610/](https://interface.cqpub.co.jp/magazine/202610/)
